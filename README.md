@@ -1,10 +1,13 @@
-### Hi there 👋
+### Hi 👋, I am YEFERSON
 
-I am passionate about the entire ✨**JavaScript** ecosystem✨
+I am passionate about the entire ✨**JavaScript** ecosystem✨, 8+ years of experience in software development🖥️.
 
-I specialize in **JavaScript**, I am proficient in **React**, Angular with RxJS, NodeJs, Unit Testing, CSS, SCSS, TypeScript, Java and tools such as Webpack, NPM, Git, etc.
-I write clean code.
+I specialize in **JavaScript**🦄, I am proficient in **React**, Angular with RxJS, NodeJs, Unit Testing, CSS, SCSS, TypeScript, Java and tools such as Webpack, NPM, Git, etc 💻. With continued motivation and mindedness to learn about several technologies.
 
+I am disciplined🚀, persistent, dynamic, proactive, committed, and dedicated to my labors. I have a good disposition for learning and knowledge
+
+- 💻 I write clean code.
+- 🗣️ I have excellent communication skills.
 - 🏢 I'm a freelance **Web Developer**
 - 📫 How to reach me: **yefcode@gmail.com**
 - 👨‍💻 Check some of my projects at [yefcode.github.io](https://yefcode.github.io/)
