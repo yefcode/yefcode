@@ -1,32 +1,33 @@
-### Hi 👋, I am YEFERSON
+## Hi 👋, I am YEFERSON
 
 I am passionate about the entire ✨**JavaScript** ecosystem✨, 8+ years of experience in software development🖥️.
 
-I specialize in **JavaScript**🦄, I am proficient in **React**, Angular with RxJS, NodeJs, Unit Testing, CSS, SCSS, TypeScript, Java and tools such as Webpack, NPM, Git, etc 💻. With continued motivation and mindedness to learn about several technologies.
+⚡I specialize in **JavaScript**🦄, I am proficient in **React**, Angular with RxJS, NodeJs, Unit Testing, CSS, SCSS, TypeScript, Java and tools such as Webpack, NPM, Git, etc 💻. With continued motivation and mindedness to learn about several technologies.
 
-I am disciplined🚀, persistent, dynamic, proactive, committed, and dedicated to my labors. I have a good disposition for learning and knowledge
+I am disciplined🚀, persistent, dynamic, proactive, committed, and dedicated to my labors. I have a good disposition for learning and knowledge.
 
+---
 - 🏢 I am a freelance **Web Developer**
 - 💻 I write clean code.
 - 🗣️ I have excellent communication skills.
 - 📫 How to reach me: **yefcode@gmail.com**
 - 👨‍💻 Check some of my projects at [yefcode.github.io](https://yefcode.github.io/)
 
+___
 [![Repos Badge](https://badges.pufler.dev/repos/yefcode)](https://github.com/yefcode)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/yefcode)](https://github.com/yefcode)
 [![Updated Badge](https://badges.pufler.dev/updated/yefcode/yefcode)](https://github.com/yefcode)
 [![Visits Badge](https://badges.pufler.dev/visits/yefcode/yefcode)](https://github.com/yefcode)
 
-<h3>Connect with me:</h3>
-<p>
-  <a href="https://twitter.com/YeferDMarin">
-    <img src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" title="Twitter" alt="YeferDMarin Twitter Account" height="30" width="32" />
-  </a> &ensp;
-    <a href="https://www.instagram.com/yeferdmarin">
-    <img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="yeferdmarin Instagram Account" height="30" width="40" />
-  </a>
-</p>
+### Connect with me:
+<a href="https://twitter.com/YeferDMarin">
+  <img src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" title="Twitter" alt="YeferDMarin Twitter Account" height="30" width="32" />
+</a> &ensp;
+  <a href="https://www.instagram.com/yeferdmarin">
+  <img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="yeferdmarin Instagram Account" height="30" width="40" />
+</a>
 
+___
 ## Tech Stack & Tools
 
 I work with different technologies and languages.
