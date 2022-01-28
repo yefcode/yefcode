@@ -41,3 +41,6 @@ I work with different technologies and languages.
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" alt="Git Logo" width="50"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" title="Bootstrap" alt="Bootstrap Logo" width="68" /> &emsp; &emsp;
 </p>
+
+---
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yefcode&layout=compact" alt="yefcode" />
