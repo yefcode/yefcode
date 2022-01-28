@@ -23,7 +23,7 @@ ___
 <a href="https://twitter.com/YeferDMarin">
   <img src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" title="Twitter" alt="YeferDMarin Twitter Account" height="30" width="32" />
 </a> &ensp;
-  <a href="https://www.instagram.com/yeferdmarin">
+<a href="https://www.instagram.com/yeferdmarin">
   <img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="yeferdmarin Instagram Account" height="30" width="40" />
 </a>
 
@@ -32,7 +32,7 @@ ___
 
 I work with different technologies and languages.
 
-<p align="center">
+<div align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" alt="JavaScript Logo" width="57" /> &emsp; &emsp;
   <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" title="React JS" alt="React Logo" width="64" /> &emsp; &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" title="TypeScript" alt="TypeScript Logo" width="57" /> &emsp; &emsp;
@@ -40,7 +40,9 @@ I work with different technologies and languages.
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Node JS" alt="Node JS Logo" width="96"/> &ensp; &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" alt="Git Logo" width="50"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" title="Bootstrap" alt="Bootstrap Logo" width="68" /> &emsp; &emsp;
-</p>
+</div>
 
 ---
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yefcode&layout=compact" alt="yefcode" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yefcode&layout=compact" alt="yefcode" />
+</div>
