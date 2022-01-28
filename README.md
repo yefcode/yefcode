@@ -13,7 +13,7 @@ I am disciplined🚀, persistent, dynamic, proactive, committed, and dedicated t
 - 📫 How to reach me: **yefcode@gmail.com**
 - 👨‍💻 Check some of my projects at [yefcode.github.io](https://yefcode.github.io/)
 
----
+___
 [![Repos Badge](https://badges.pufler.dev/repos/yefcode)](https://github.com/yefcode)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/yefcode)](https://github.com/yefcode)
 [![Updated Badge](https://badges.pufler.dev/updated/yefcode/yefcode)](https://github.com/yefcode)
@@ -27,6 +27,7 @@ I am disciplined🚀, persistent, dynamic, proactive, committed, and dedicated t
   <img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="yeferdmarin Instagram Account" height="30" width="40" />
 </a>
 
+___
 ## Tech Stack & Tools
 
 I work with different technologies and languages.
