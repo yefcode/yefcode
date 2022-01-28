@@ -6,9 +6,9 @@ I specialize in **JavaScript**🦄, I am proficient in **React**, Angular with R
 
 I am disciplined🚀, persistent, dynamic, proactive, committed, and dedicated to my labors. I have a good disposition for learning and knowledge
 
+- 🏢 I am a freelance **Web Developer**
 - 💻 I write clean code.
 - 🗣️ I have excellent communication skills.
-- 🏢 I'm a freelance **Web Developer**
 - 📫 How to reach me: **yefcode@gmail.com**
 - 👨‍💻 Check some of my projects at [yefcode.github.io](https://yefcode.github.io/)
 
