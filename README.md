@@ -19,14 +19,6 @@ ___
 [![Updated Badge](https://badges.pufler.dev/updated/yefcode/yefcode)](https://github.com/yefcode)
 [![Visits Badge](https://badges.pufler.dev/visits/yefcode/yefcode)](https://github.com/yefcode)
 
-### Connect with me:
-<a href="https://twitter.com/YeferDMarin">
-  <img src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" title="Twitter" alt="YeferDMarin Twitter Account" height="30" width="32" />
-</a> &ensp;
-<a href="https://www.instagram.com/yeferdmarin">
-  <img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="yeferdmarin Instagram Account" height="30" width="40" />
-</a>
-
 ___
 ## Tech Stack & Tools
 
