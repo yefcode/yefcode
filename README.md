@@ -14,12 +14,6 @@ I am disciplined🚀, persistent, dynamic, proactive, committed, and dedicated t
 - 👨‍💻 Check some of my projects at [yefcode.github.io](https://yefcode.github.io/)
 
 ___
-[![Repos Badge](https://badges.pufler.dev/repos/yefcode)](https://github.com/yefcode)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/yefcode)](https://github.com/yefcode)
-[![Updated Badge](https://badges.pufler.dev/updated/yefcode/yefcode)](https://github.com/yefcode)
-[![Visits Badge](https://badges.pufler.dev/visits/yefcode/yefcode)](https://github.com/yefcode)
-
-___
 ## Tech Stack & Tools
 
 I work with different technologies and languages.
