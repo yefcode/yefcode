@@ -57,17 +57,6 @@
 
 ## 🛠️ Tech Stack & Capabilities
 
-### Opción A — Tabla SVG (600px escala 1:1)
-
 <div align="center">
   <img src="./assets/tech-stack-card.svg" alt="" />
 </div>
-
-### Opción B — Tabla Nativa Markdown
-
-| Domain | Core Stack | Engineering Focus |
-| :--- | :--- | :--- |
-| **AI & Agentic Systems** | `Python` · `MCP` · `Claude Code` · `RAG` | Multi-agent orchestration & deterministic pipelines |
-| **Backend & Distributed Data** | `FastAPI` · `PostgreSQL` · `Redis` · `SQLAlchemy` · `Java EE` | High-concurrency APIs & transactional integrity |
-| **Frontend & Modern Web** | `TypeScript` · `Next.js` · `React & Native` · `Angular / RxJS` | Server Components, strict typing & WAI-ARIA |
-| **Quality, Testing & DevOps** | `Pytest` · `Vitest` · `Playwright E2E` · `Docker` · `GitHub Actions` | Automated quality gates, E2E & CI/CD |
