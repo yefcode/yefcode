@@ -1,34 +1,62 @@
-## Hi 👋, I am YEFERSON
-
-I am passionate about the entire ✨**JavaScript** ecosystem✨, 8+ years of experience in software development🖥️.
-
-⚡I specialize in **JavaScript**🦄, I am proficient in **React**, Angular with RxJS, NodeJs, Unit Testing, CSS, SCSS, TypeScript, Java and tools such as Webpack, NPM, Git, etc 💻. With continued motivation and mindedness to learn about several technologies.
-
-I am disciplined🚀, persistent, dynamic, proactive, committed, and dedicated to my labors. I have a good disposition for learning and knowledge.
-
----
-- 🏢 I am a freelance **Web Developer**
-- 💻 I write clean code.
-- 🗣️ I have excellent communication skills.
-- 📫 How to reach me: **yefcode@gmail.com**
-- 👨‍💻 Check some of my projects at [yefcode.github.io](https://yefcode.github.io/)
-
-___
-## Tech Stack & Tools
-
-I work with different technologies and languages.
-
 <div align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" alt="JavaScript Logo" width="57" /> &emsp; &emsp;
-  <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" title="React JS" alt="React Logo" width="64" /> &emsp; &emsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" title="TypeScript" alt="TypeScript Logo" width="57" /> &emsp; &emsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" title="Angular" alt="Angular Logo" width="55" /> &emsp; &emsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Node JS" alt="Node JS Logo" width="96"/> &ensp; &emsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" alt="Git Logo" width="50"/> &emsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" title="Bootstrap" alt="Bootstrap Logo" width="68" /> &emsp; &emsp;
+
+# Hi 👋, I am Yeferson (`yefcode`)
+
+### Software & AI Systems Engineer
+
+*13+ years engineering scalable, high-impact software systems, today amplified by autonomous AI workflows and deterministic agentic tooling. Specialized in distributed architectures, event-driven pipelines, and verifiable software craft across enterprise domains.*
+
+<p>
+  <img src="./assets/yefcode-logo.svg" width="18" height="18" align="absmiddle" alt="yefcode" /> <a href="https://yefcode.com">yefcode.com</a>
+  &nbsp;·&nbsp;
+  <img src="./assets/mail-icon.svg" width="16" height="16" align="absmiddle" alt="email" /> <a href="mailto:yefcode@gmail.com">yefcode@gmail.com</a>
+  &nbsp;·&nbsp;
+  📍 Medellín, Colombia
+  &nbsp;·&nbsp;
+  🌍 Remote
+</p>
+
 </div>
 
 ---
+
+## ⚡ Things I Love Engineering
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Autonomous AI Agents, Swarms &amp; Workers</h3>
+      <p><em>Advanced agentic orchestration, multi-agent swarms with workers &amp; deterministic MCP pipelines.</em></p>
+      <p>Governance and deployment of software agents using Google Antigravity, Claude Code, and Codex, with isolated context tooling, Model Context Protocol (MCP), and deterministic workflow automations.</p>
+      <code>Google Antigravity</code> · <code>Claude Code</code> · <code>Codex</code> · <code>MCP</code> · <code>Agent Skills</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧩 Distributed Systems &amp; Resilient Infrastructure</h3>
+      <p><em>High concurrency, event-driven pipelines &amp; robust data integrity.</em></p>
+      <p>Designing resilient microservices, high-performance async APIs, and transactional backends with Python (FastAPI), SQLAlchemy Async, PostgreSQL, and Redis queues to power mission-critical workloads.</p>
+      <code>FastAPI</code> · <code>PostgreSQL</code> · <code>Redis</code> · <code>Event-Driven</code> · <code>Docker</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ Software Craftsmanship &amp; Rigor</h3>
+      <p><em>Zero tech debt tolerance, extensive quality gates &amp; production Core Features.</em></p>
+      <p>Strict business domain isolation (DDD), thorough automated test coverage (Pytest, Vitest, Playwright E2E), surgical refactors, and audit-ready technical documentation.</p>
+      <code>Domain-Driven Design</code> · <code>Pytest / Vitest</code> · <code>Playwright E2E</code> · <code>Quality Gates</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🖥️ Modern Web Platforms &amp; Fullstack Delivery</h3>
+      <p><em>Strict TypeScript, server-driven architectures &amp; accessible design systems.</em></p>
+      <p>Crafting responsive, server-driven web applications with Next.js App Router, React Server Components (RSC), and clean modular CSS without framework bloat or unnecessary dependencies.</p>
+      <code>Next.js</code> · <code>TypeScript</code> · <code>CSS Modules</code> · <code>RSC</code> · <code>WAI-ARIA</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack & Capabilities
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yefcode&layout=compact" alt="yefcode" />
+  <img src="./assets/tech-stack-card.svg" alt="" />
 </div>

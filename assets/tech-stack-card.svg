@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="366" viewBox="0 0 760 366" role="img" aria-label="Yefcode Tech Stack and Capabilities">
+  <rect width="760" height="366" rx="12" fill="#f9f9ff" stroke="#cbc4d2" stroke-width="1.5"/>
+  <rect x="1" y="1" width="758" height="38" rx="11" fill="#ede7f6"/>
+  <rect x="1" y="22" width="758" height="17" fill="#ede7f6"/>
+  <line x1="1" y1="39" x2="759" y2="39" stroke="#cbc4d2" stroke-width="1"/>
+  <text x="20" y="25" fill="#381e72" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700">Domain</text>
+  <text x="212" y="25" fill="#381e72" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700">Core Stack</text>
+  <text x="490" y="25" fill="#381e72" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700">Engineering Focus</text>
+  <text x="20" y="72" fill="#6350a7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700">AI &amp; Agentic Systems</text>
+  <rect x="212" y="54" width="62" height="25" rx="6" fill="#dce2f7" stroke="#cbc4d2" stroke-width="1"/>
+  <text x="243.0" y="71" text-anchor="middle" fill="#141b2b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600">Python</text>
+  <rect x="282" y="54" width="58" height="25" rx="6" fill="#dce2f7" stroke="#cbc4d2" stroke-width="1"/>
+  <text x="311.0" y="71" text-anchor="middle" fill="#141b2b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600">MCP</text>
+  <rect x="212" y="85" width="97" height="25" rx="6" fill="#dce2f7" stroke="#cbc4d2" stroke-width="1"/>
+  <text x="260.5" y="102" text-anchor="middle" fill="#141b2b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600">Claude Code</text>
+  <rect x="317" y="85" width="58" height="25" rx="6" fill="#dce2f7" stroke="#cbc4d2" stroke-width="1"/>
+  <text x="346.0" y="102" text-anchor="middle" fill="#141b2b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600">RAG</text>
+  <text x="490" y="72" fill="#494551" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15">Multi-agent orchestration &amp;</text>
+  <text x="490" y="92" fill="#494551" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15">deterministic pipelines</text>
+  <line x1="16" y1="124" x2="744" y2="124" stroke="#cbc4d2" stroke-width="0.8"/>
+  <text x="20" y="148" fill="#6350a7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700">Backend &amp; Distributed</text>
+  <text x="20" y="166" fill="#6350a7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700">Data</text>
+  <rect x="212" y="130" width="69" height="25" rx="6" fill="#dce2f7" stroke="#cbc4d2" stroke-width="1"/>
+  <text x="246.5" y="147" text-anchor="middle" fill="#141b2b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600">FastAPI</text>
+  <rect x="289" y="130" width="90" height="25" rx="6" fill="#dce2f7" stroke="#cbc4d2" stroke-width="1"/>
+  <text x="334.0" y="147" text-anchor="middle" fill="#141b2b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600">PostgreSQL</text>
+  <rect x="387" y="130" width="58" height="25" rx="6" fill="#dce2f7" stroke="#cbc4d2" stroke-width="1"/>
+  <text x="416.0" y="147" text-anchor="middle" fill="#141b2b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600">Redis</text>
+  <rect x="212" y="161" width="90" height="25" rx="6" fill="#dce2f7" stroke="#cbc4d2" stroke-width="1"/>
+  <text x="257.0" y="178" text-anchor="middle" fill="#141b2b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600">SQLAlchemy</text>
+  <rect x="310" y="161" width="69" height="25" rx="6" fill="#dce2f7" stroke="#cbc4d2" stroke-width="1"/>
+  <text x="344.5" y="178" text-anchor="middle" fill="#141b2b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600">Java EE</text>
+  <text x="490" y="148" fill="#494551" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15">High-concurrency APIs &amp;</text>
+  <text x="490" y="168" fill="#494551" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15">transactional integrity</text>
+  <line x1="16" y1="200" x2="744" y2="200" stroke="#cbc4d2" stroke-width="0.8"/>
+  <text x="20" y="224" fill="#6350a7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700">Frontend &amp; Modern Web</text>
+  <rect x="212" y="206" width="90" height="25" rx="6" fill="#dce2f7" stroke="#cbc4d2" stroke-width="1"/>
+  <text x="257.0" y="223" text-anchor="middle" fill="#141b2b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600">TypeScript</text>
+  <rect x="310" y="206" width="69" height="25" rx="6" fill="#dce2f7" stroke="#cbc4d2" stroke-width="1"/>
+  <text x="344.5" y="223" text-anchor="middle" fill="#141b2b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600">Next.js</text>
+  <rect x="212" y="237" width="118" height="25" rx="6" fill="#dce2f7" stroke="#cbc4d2" stroke-width="1"/>
+  <text x="271.0" y="254" text-anchor="middle" fill="#141b2b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600">React &amp; Native</text>
+  <rect x="338" y="237" width="118" height="25" rx="6" fill="#dce2f7" stroke="#cbc4d2" stroke-width="1"/>
+  <text x="397.0" y="254" text-anchor="middle" fill="#141b2b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600">Angular / RxJS</text>
+  <text x="490" y="224" fill="#494551" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15">Server Components, strict typing</text>
+  <text x="490" y="244" fill="#494551" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15">&amp; WAI-ARIA</text>
+  <line x1="16" y1="276" x2="744" y2="276" stroke="#cbc4d2" stroke-width="0.8"/>
+  <text x="20" y="300" fill="#6350a7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700">Quality, Testing &amp;</text>
+  <text x="20" y="318" fill="#6350a7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700">DevOps</text>
+  <rect x="212" y="282" width="62" height="25" rx="6" fill="#dce2f7" stroke="#cbc4d2" stroke-width="1"/>
+  <text x="243.0" y="299" text-anchor="middle" fill="#141b2b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600">Pytest</text>
+  <rect x="282" y="282" width="62" height="25" rx="6" fill="#dce2f7" stroke="#cbc4d2" stroke-width="1"/>
+  <text x="313.0" y="299" text-anchor="middle" fill="#141b2b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600">Vitest</text>
+  <rect x="352" y="282" width="118" height="25" rx="6" fill="#dce2f7" stroke="#cbc4d2" stroke-width="1"/>
+  <text x="411.0" y="299" text-anchor="middle" fill="#141b2b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600">Playwright E2E</text>
+  <rect x="212" y="313" width="62" height="25" rx="6" fill="#dce2f7" stroke="#cbc4d2" stroke-width="1"/>
+  <text x="243.0" y="330" text-anchor="middle" fill="#141b2b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600">Docker</text>
+  <rect x="282" y="313" width="118" height="25" rx="6" fill="#dce2f7" stroke="#cbc4d2" stroke-width="1"/>
+  <text x="341.0" y="330" text-anchor="middle" fill="#141b2b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600">GitHub Actions</text>
+  <text x="490" y="300" fill="#494551" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15">Automated quality gates, E2E &amp;</text>
+  <text x="490" y="320" fill="#494551" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15">CI/CD</text>
+</svg>
