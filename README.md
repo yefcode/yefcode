@@ -63,6 +63,8 @@
 
 <br />
 
+#### 🔹 Variante 1: Píldoras Nativa `<code>` (Monocromática)
+
 <table>
   <thead>
     <tr>
@@ -102,4 +104,107 @@
     </tr>
   </tbody>
 </table>
+
+<br />
+
+#### 🔹 Variante 2: Píldoras Nativa `<kbd>` (Efecto Botón 3D + 100% Ctrl+F)
+
+<table>
+  <thead>
+    <tr>
+      <th align="left" width="26%">Domain</th>
+      <th align="left" width="44%">Core Stack</th>
+      <th align="left" width="30%">Engineering Focus</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>🤖 AI &amp; Agentic Systems</strong></td>
+      <td>
+        <kbd>Python</kbd> <kbd>MCP</kbd> <kbd>Claude Code</kbd> <kbd>RAG</kbd>
+      </td>
+      <td>Multi-agent orchestration &amp; deterministic pipelines</td>
+    </tr>
+    <tr>
+      <td><strong>🧩 Backend &amp; Distributed Data</strong></td>
+      <td>
+        <kbd>FastAPI</kbd> <kbd>PostgreSQL</kbd> <kbd>Redis</kbd> <kbd>SQLAlchemy</kbd> <kbd>Java EE</kbd>
+      </td>
+      <td>High-concurrency APIs &amp; transactional integrity</td>
+    </tr>
+    <tr>
+      <td><strong>🖥️ Frontend &amp; Modern Web</strong></td>
+      <td>
+        <kbd>TypeScript</kbd> <kbd>Next.js</kbd> <kbd>React &amp; Native</kbd> <kbd>Angular / RxJS</kbd>
+      </td>
+      <td>Server Components, strict typing &amp; WAI-ARIA</td>
+    </tr>
+    <tr>
+      <td><strong>🛡️ Quality, Testing &amp; DevOps</strong></td>
+      <td>
+        <kbd>Pytest</kbd> <kbd>Vitest</kbd> <kbd>Playwright E2E</kbd> <kbd>Docker</kbd> <kbd>GitHub Actions</kbd>
+      </td>
+      <td>Automated quality gates, E2E &amp; CI/CD</td>
+    </tr>
+  </tbody>
+</table>
+
+<br />
+
+#### 🔹 Variante 3: Badges con Paleta Exacta (`#dce2f7` + Logos de Marca)
+
+<table>
+  <thead>
+    <tr>
+      <th align="left" width="24%">Domain</th>
+      <th align="left" width="46%">Core Stack</th>
+      <th align="left" width="30%">Engineering Focus</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>AI &amp; Agentic Systems</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-dce2f7?style=flat-square&logo=python&logoColor=141b2b" alt="Python" />
+        <img src="https://img.shields.io/badge/MCP-dce2f7?style=flat-square&logoColor=141b2b" alt="MCP" />
+        <img src="https://img.shields.io/badge/Claude_Code-dce2f7?style=flat-square&logo=anthropic&logoColor=141b2b" alt="Claude Code" />
+        <img src="https://img.shields.io/badge/RAG-dce2f7?style=flat-square&logoColor=141b2b" alt="RAG" />
+      </td>
+      <td>Multi-agent orchestration &amp; deterministic pipelines</td>
+    </tr>
+    <tr>
+      <td><strong>Backend &amp; Distributed Data</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/FastAPI-dce2f7?style=flat-square&logo=fastapi&logoColor=141b2b" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/PostgreSQL-dce2f7?style=flat-square&logo=postgresql&logoColor=141b2b" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Redis-dce2f7?style=flat-square&logo=redis&logoColor=141b2b" alt="Redis" />
+        <img src="https://img.shields.io/badge/SQLAlchemy-dce2f7?style=flat-square&logo=sqlalchemy&logoColor=141b2b" alt="SQLAlchemy" />
+        <img src="https://img.shields.io/badge/Java_EE-dce2f7?style=flat-square&logo=oracle&logoColor=141b2b" alt="Java EE" />
+      </td>
+      <td>High-concurrency APIs &amp; transactional integrity</td>
+    </tr>
+    <tr>
+      <td><strong>Frontend &amp; Modern Web</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/TypeScript-dce2f7?style=flat-square&logo=typescript&logoColor=141b2b" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Next.js-dce2f7?style=flat-square&logo=nextdotjs&logoColor=141b2b" alt="Next.js" />
+        <img src="https://img.shields.io/badge/React_&_Native-dce2f7?style=flat-square&logo=react&logoColor=141b2b" alt="React & Native" />
+        <img src="https://img.shields.io/badge/Angular_/_RxJS-dce2f7?style=flat-square&logo=angular&logoColor=141b2b" alt="Angular / RxJS" />
+      </td>
+      <td>Server Components, strict typing &amp; WAI-ARIA</td>
+    </tr>
+    <tr>
+      <td><strong>Quality, Testing &amp; DevOps</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Pytest-dce2f7?style=flat-square&logo=pytest&logoColor=141b2b" alt="Pytest" />
+        <img src="https://img.shields.io/badge/Vitest-dce2f7?style=flat-square&logo=vitest&logoColor=141b2b" alt="Vitest" />
+        <img src="https://img.shields.io/badge/Playwright_E2E-dce2f7?style=flat-square&logo=playwright&logoColor=141b2b" alt="Playwright E2E" />
+        <img src="https://img.shields.io/badge/Docker-dce2f7?style=flat-square&logo=docker&logoColor=141b2b" alt="Docker" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-dce2f7?style=flat-square&logo=githubactions&logoColor=141b2b" alt="GitHub Actions" />
+      </td>
+      <td>Automated quality gates, E2E &amp; CI/CD</td>
+    </tr>
+  </tbody>
+</table>
+
 
