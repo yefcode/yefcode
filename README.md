@@ -58,5 +58,48 @@
 ## 🛠️ Tech Stack & Capabilities
 
 <div align="center">
-  <img src="./assets/tech-stack-card.svg" alt="" />
+  <img src="./assets/tech-stack-card.svg" alt="Tech Stack and Capabilities Card" />
 </div>
+
+<br />
+
+<table>
+  <thead>
+    <tr>
+      <th align="left" width="24%">Domain</th>
+      <th align="left" width="46%">Core Stack</th>
+      <th align="left" width="30%">Engineering Focus</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>AI &amp; Agentic Systems</strong></td>
+      <td>
+        <code>Python</code> · <code>MCP</code> · <code>Claude Code</code> · <code>RAG</code>
+      </td>
+      <td>Multi-agent orchestration &amp; deterministic pipelines</td>
+    </tr>
+    <tr>
+      <td><strong>Backend &amp; Distributed Data</strong></td>
+      <td>
+        <code>FastAPI</code> · <code>PostgreSQL</code> · <code>Redis</code> · <code>SQLAlchemy</code> · <code>Java EE</code>
+      </td>
+      <td>High-concurrency APIs &amp; transactional integrity</td>
+    </tr>
+    <tr>
+      <td><strong>Frontend &amp; Modern Web</strong></td>
+      <td>
+        <code>TypeScript</code> · <code>Next.js</code> · <code>React &amp; Native</code> · <code>Angular / RxJS</code>
+      </td>
+      <td>Server Components, strict typing &amp; WAI-ARIA</td>
+    </tr>
+    <tr>
+      <td><strong>Quality, Testing &amp; DevOps</strong></td>
+      <td>
+        <code>Pytest</code> · <code>Vitest</code> · <code>Playwright E2E</code> · <code>Docker</code> · <code>GitHub Actions</code>
+      </td>
+      <td>Automated quality gates, E2E &amp; CI/CD</td>
+    </tr>
+  </tbody>
+</table>
+
